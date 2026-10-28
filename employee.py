@@ -1,3 +1,4 @@
+import sys
 def employee_details(name,employee_id,department,salary):
     return f"Employee Name: {name}\nEmployee ID: {employee_id}\nDepartment: {department:}\nSalary: ${salary:2f}"
 
